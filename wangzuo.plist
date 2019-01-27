@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://61.149.225.152:90/Unity-iPhone576.ipa</string>
+					<string>http://123.114.137.111:90/Unity-iPhone576.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://61.149.225.152:90/icon256.png</string>
+					<string>http://123.114.137.111:90/icon256.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://61.149.225.152:90/icon57.png</string>
+					<string>http://123.114.137.111:90/icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
