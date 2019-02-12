@@ -19,8 +19,14 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://221.219.67.70:90/icon256.png</string>
+                   <string>http://221.219.67.70:90/icon57.png</string>
                </dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://221.219.67.70:90/icon256.png</string>
+				</dict>
            </array>
            <key>metadata</key>
            <dict>
