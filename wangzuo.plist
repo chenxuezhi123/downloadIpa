@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://domain/logo/logo.png</string>
+                   <string>http://221.219.67.70:90/icon256.png</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -33,7 +33,7 @@
                <key>subtitle</key>
                <string>App Subtitle</string>
                <key>title</key>
-               <string>App Title</string>
+               <string>wz download</string>
            </dict>
        </dict>
    </array>
